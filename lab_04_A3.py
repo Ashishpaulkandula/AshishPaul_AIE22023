@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-data = pd.read_csv("C:\\Users\\Rishu Jaiswal\\Downloads\\archive (2)\\Data\\features_30_sec.csv")
+data = pd.read_csv("E:\\Users\\MachineLearning\\Downloads\\archive (2)\\Data\\features_30_sec.csv")
 
 # Function to calculate Minkowski distance
 def minkowski_distance(x, y, r):
